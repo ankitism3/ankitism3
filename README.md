@@ -1,5 +1,5 @@
 - 👋 Hello there !
-- 👀 I’m interested in Web/App Development, Data Science and Deep Learning. 
+- 👀 I’m Data Science, Deep Learning and AI professional. 
 - 🌱 I’m currently learning a lot of things together 
-- 💞️ I’m looking to collaborate on mulitple Web App Projects
+- 💞️ I’m looking to collaborate on mulitple cool AI and DS projects 
 - 📫 How to reach me : ankit.ismd@gmail.com
